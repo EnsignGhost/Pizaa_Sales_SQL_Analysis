@@ -13,11 +13,11 @@ There I run some fantastic queries to analyse the datset
   - *The Greak Pizza = 36.95*
     
   **- Identify the most common pizza size ordered.**
-    - *L	18526
-      M	15385
-      S	14137
-      XL	544
-      XXL	28*
+    - *L - 18526
+      M	- 15385
+      S	- 14137
+      XL	- 544
+      XXL	- 28*
     
   **- List the top 5 most ordered pizza types along with their quantities.**
 
