@@ -13,13 +13,19 @@ There I run some fantastic queries to analyse the datset
   - *The Greak Pizza = 36.95*
     
   **- Identify the most common pizza size ordered.**
-    - *L - 18526
+  - *L - 18526
       M	- 15385
       S	- 14137
       XL	- 544
       XXL	- 28*
+     
     
   **- List the top 5 most ordered pizza types along with their quantities.**
+  - *The Classic Deluxe Pizza -	2453 || 
+The Barbecue Chicken Pizza -	2432 || 
+The Hawaiian Pizza	- 2422 ||
+The Pepperoni Pizza	- 2418 ||
+The Thai Chicken Pizza	- 2371*
 
 
 ## Intermediate:
