@@ -4,10 +4,14 @@ There I run some fantastic queries to analyse the datset
 
 ### Basic:
   - Retrieve the total number of orders placed.
-    A: 21350
+     **21350**
   - Calculate the total revenue generated from pizza sales.
+      **~ 8,00,000**
+    
   - Identify the highest-priced pizza.
+    
   - Identify the most common pizza size ordered.
+    
   - List the top 5 most ordered pizza types along with their quantities.
 
 
