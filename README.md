@@ -64,9 +64,20 @@ Chicken	- 23.96 ||
 Veggie	- 23.68*
     
   **- Analyze the cumulative revenue generated over time.**
-  - *12*
+  - *2015-01-01	-> 2713.8500000000004 || 
+2015-01-02	-> 5445.75 || 
+2015-01-03	-> 8108.15 ||*
     
   **- Determine the top 3 most ordered pizza types based on revenue for each pizza category.**
-  - *The Thai Chicken Pizza	--> 43434.25 ||
-The Barbecue Chicken Pizza	--> 42768 ||
-The California Chicken Pizza	--> 41409.5*
+  - *The Thai Chicken Pizza ->	43434.25 || 
+The Barbecue Chicken Pizza	-> 42768 || 
+The California Chicken Pizza	-> 41409.5 || 
+The Classic Deluxe Pizza	-> 38180.5 || 
+The Hawaiian Pizza	-> 32273.25 || 
+The Pepperoni Pizza	-> 30161.75 || 
+The Spicy Italian Pizza	-> 34831.25 || 
+The Italian Supreme Pizza	-> 33476.75 || 
+The Sicilian Pizza	-> 30940.5 || 
+The Four Cheese Pizza	32265.70000000065 || 
+The Mexicana Pizza	26780.75 || 
+The Five Cheese Pizza	26066.5*
